@@ -1,0 +1,10 @@
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\CalculadoraCapital\CalculadoraCapital\bin\Debug\CalculadoraCapital.exe.config
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\CalculadoraCapital\CalculadoraCapital\bin\Debug\CalculadoraCapital.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\CalculadoraCapital\CalculadoraCapital\bin\Debug\CalculadoraCapital.pdb
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\CalculadoraCapital\CalculadoraCapital\obj\Debug\CalculadoraCapital.csproj.AssemblyReference.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\CalculadoraCapital\CalculadoraCapital\obj\Debug\CalculadoraCapital.Form1.resources
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\CalculadoraCapital\CalculadoraCapital\obj\Debug\CalculadoraCapital.Properties.Resources.resources
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\CalculadoraCapital\CalculadoraCapital\obj\Debug\CalculadoraCapital.csproj.GenerateResource.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\CalculadoraCapital\CalculadoraCapital\obj\Debug\CalculadoraCapital.csproj.CoreCompileInputs.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\CalculadoraCapital\CalculadoraCapital\obj\Debug\CalculadoraCapital.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\CalculadoraCapital\CalculadoraCapital\obj\Debug\CalculadoraCapital.pdb
